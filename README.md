@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sonam Tamang</h1>
-<h3 align="center">A passionate web developer from Nepal.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV4dnE4NXEzMGY2eDE3Y2RhYnRiMzVxcnQwanhlM2Vwb2ZlZmgxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
