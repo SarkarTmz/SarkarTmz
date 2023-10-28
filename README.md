@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/sarkartmz](linktr.ee/sarkartmz)
-
 - 💬 Ask me about **React, Next, Node.**
 
 - 📫 How to reach me **sarkartmz7@gmail.com**
