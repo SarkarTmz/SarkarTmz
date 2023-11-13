@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### 👋 GREETINGS!<br>🧍‍♂️ My name is Sonam Tamang, i am a React & NextJS developer,<br>📍 I am from Kathmandu Nepal,<br>🌱 I’m currently learning core MERN development,<br>👨‍💻 All of my projects are available at my <a href="https://sonamtmg.vercel.app/">My Porfolio</a>,<br>📝 I regularly write articles related to programming on my blog <a href="https://medium.com/@sarkartmz7">My Blogs</a>,<br>💬 Ask me about web development,<br>📫 How to reach me sarkartmz7@gmail.com,<br>⚡ Fun fact I use my Phone for everything, and it is never far from my side.
+#### 👋 GREETINGS!<br>🧍‍♂️ My name is Sonam Tamang, i am a React & NextJS developer,<br>📍 I am from Kathmandu Nepal,<br>🌱 I’m currently learning core MERN development,<br>👨‍💻 All of my projects are available at <a href="https://sonamtmg.vercel.app/">My Portfolio</a>,<br>📝 I regularly write articles related to programming on my <a href="https://medium.com/@sarkartmz7">My Blog</a>,<br>💬 Ask me about web development,<br>📫 How to reach me sarkartmz7@gmail.com,<br>⚡ Fun fact I use my Phone for everything, and it is never far from my side.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=SarkarTmz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SarkarTmz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarkarTmz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SarkarTmz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
