@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### 🙏 Namaste!<br><br> 👨‍💼 My name is Sonam Tamang, i am a React & NextJS developer,<br><br> 🏛️ I am from Kathmandu Nepal,<br><br>🌱 I’m currently learning core MERN development,<br><br>👨‍💻 All of my projects are available at <a href="https://sonamtmg.vercel.app/">My Portfolio</a>,<br><br>📝 I regularly write articles related to programming on my <a href="https://medium.com/@sarkartmz7">My Blog</a>,<br><br>💬 Ask me about web development,<br><br>📫 How to reach me sarkartmz7@gmail.com,<br><br>⚡ Fun fact I use my Phone for everything, and it is never far from my side.<br>
+#### 🙏 Namaste!<br><br> 👨‍💼 My name is Sonam Tamang, i am a React & NextJS developer,<br><br> 🏛️ I am from Kathmandu Nepal,<br><br>🌱 I’m currently learning core MERN development,<br><br>👨‍💻 All of my projects are available at <a href="https://sonamtmg.vercel.app/">My Portfolio</a>,<br><br>📝 I regularly write articles related to programming on my <a href="https://medium.com/@sarkartmz7">My Blog</a>,<br><br>📫 How to reach me sarkartmz7@gmail.com,<br><br>
 
 
 ## 🌐 Socials:
