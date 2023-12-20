@@ -1,4 +1,9 @@
-# 💫 About Me:
+<p align="center">
+  <a href="https://sonamtmg.vercel.app/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dhul7jt2w/image/upload/v1703061598/github-bg/ndrrl6bdeimc9mxepmpf.png" alt="Sonam Tamang"></a>
+</p>
+
+
+
 #### 🙏 Namaste!<br><br> 👨‍💼 My name is Sonam Tamang, i am a React & NextJS developer,<br><br>👨‍💻 All of my projects are available at <a href="https://sonamtmg.vercel.app/">My Portfolio</a>,<br><br>📝 I regularly write articles related to programming on my <a href="https://medium.com/@sarkartmz7">My Blog</a>,<br><br>📫 How to reach me sarkartmz7@gmail.com,<br><br>
 
 
